@@ -19,3 +19,6 @@ Opened and merged a Pull Request "
 Here's another update win whih I ACTUALLY follow the tutorial -_*
 
 update - well i actually have to re-do the first tutorial in the book for the 3rd time. while I have managed to commit the changes every single time I go through it - I have difficulties to remember the way that was shown in the tutorial so I have to re-do it once again. Well third time the charm :D
+
+Hi there once again! I spent 1 hour understawnding this tutorial an here's what I think:
+If there is more than one way to do something in order to get a correct/right result/answer - I will have a HARD time remebering which EXACT way I wa shouwn to do it.
