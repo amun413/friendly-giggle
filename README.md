@@ -17,3 +17,5 @@ Changed a file and committed those changes to GitHub
 Opened and merged a Pull Request "
 
 Here's another update win whih I ACTUALLY follow the tutorial -_*
+
+update - well i actually have to re-do the first tutorial in the book for the 3rd time. while I have managed to commit the changes every single time I go through it - I have difficulties to remember the way that was shown in the tutorial so I have to re-do it once again. Well third time the charm :D
